@@ -6,6 +6,7 @@
   "license": "Apache-2.0",
   "author": "Bjerk AS",
   "main": "dist/plugin.js",
+  "types": "dist/plugin.d.ts",
   "files": [
     "dist/"
   ],
